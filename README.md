@@ -1,6 +1,11 @@
 # ELIDEK-DB
 Semester project on Databases NTUA Course : Implementation of a database for ELIDEK  
-A Database project accompanied by a web application. 
+A Database project accompanied by a web application.  
+
+## Collaborators:
+- [Dimitrios-David Gerokonstantis](https://github.com/DimitrisDavidGerokonstantis)  (el19209)
+- [Athanasios Tsoukleidis-Karydakis](https://github.com/ThanosTsoukleidis-Karydakis)  (el19009)
+- [Filippos Sevastakis](https://github.com/FilipposSevastakis) (el19183)
 
 Συγγραφείς :  
 Δημήτριος Δαυίδ Γεροκωνσταντής     
