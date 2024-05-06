@@ -1,5 +1,6 @@
 # ELIDEK-DB
-Semester project on Databases NTUA Course : Implementation of a database for ELIDEK
+Semester project on Databases NTUA Course : Implementation of a database for ELIDEK  
+A Database project accompanied by a web application. 
 
 Συγγραφείς :  
 Δημήτριος Δαυίδ Γεροκωνσταντής     
